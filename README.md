@@ -18,11 +18,6 @@ The old system had its flaws:
 
 **The Road Ahead:**
 
-These challenges fueled my passion to create RMS.  Stay tuned for the next chapter, where I'll delve into the features of this student-driven innovation! 
+These challenges fueled my passion to create RMS
 
-**This revision makes your description more wholesome by:**
 
-* Emphasizing the positive impact of RMS on the student experience.
-* Using more engaging language like "breeze" and "bulky books."
-* Framing the challenges as opportunities for improvement.
-* Creating a sense of anticipation for the next part with a "stay tuned" call to action.
