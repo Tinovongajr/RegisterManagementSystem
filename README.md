@@ -61,4 +61,12 @@ Following extensive development, I presented RMS to my class teacher. Their valu
 
 As a student with ever-increasing academic demands, I eventually had to step back from the project to focus on my schoolwork. However, RMS stands as a testament to the power of student initiative and the potential to create innovative solutions for real-world challenges. 
 
+**Pictures**
+![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/aca0f50f-5e65-4fb2-935a-dc4e465e83e4)
+![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/bc815c87-bde5-4e60-bada-59fb3c86962d)
+![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/5bc8a7d9-8843-437e-91e5-a768819d5c20)
+![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/c56e0233-98aa-49db-bccb-d820b98295bf)
+![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/aff86a68-52af-4660-9a08-67f9f0d0414e)
+
+
 
