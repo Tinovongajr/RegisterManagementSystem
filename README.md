@@ -16,8 +16,51 @@ The old system had its flaws:
 * **Security Concerns:** Open books meant the potential for unauthorized changes, raising concerns about data integrity.
 * **Time Crunch:** Updating attendance for a single class could take a frustrating 20 minutes, leaving less time for what really matters – learning!
 
-**The Road Ahead:**
+These challenges fueled my passion for creating RMS. 
 
-These challenges fueled my passion to create RMS
+# Developing RMS 
+
+## RMS: A Student-Driven Innovation (continued)
+
+**1. Designing the Database:**
+
+To begin, I designed the heart of the system: the database. My goal was to ensure easy storage, retrieval, update, and deletion of information. This meant avoiding null references (missing data) and redundancies (repeated data).  Making the database relational minimized the effort needed on the front-end (user interface) to fetch and modify data. Additionally, to simplify the transition from the old system, I used the existing register books as a reference for data structure.
+
+**2. Designing the Frontend:**
+
+With a robust backend in place, I shifted my focus to the user interface. Here, I drew inspiration from modern desktop UI designs to create a visually appealing and user-friendly experience without sacrificing functionality.  To accommodate all the necessary features while allowing for future expansion, I grouped them into dedicated sections:
+
+* **HOME PAGE:** This is the landing page, offering a quick overview of class statistics, initiating register marking sessions, and providing access to currently taught subjects.
+
+* **STUDENTS PAGE:**  Users can view existing student information, add new students, remove them, or modify student records.
+
+* **REGISTER PAGE:**  This central hub allows users to mark attendance, view past register records, and access detailed attendance information for individual students or the entire class.
+
+* **SUBJECTS/CLASSES PAGE:**  Manage subjects offered, student enrollment, and access information about teachers responsible for each subject.
+
+* **CREATE PAGE:**  This user-requested feature allows for generating custom student lists based on specific criteria, for example, all students taking English.
+
+* **SEARCH PAGE:**  A quick search dialog box for retrieving student information.
+
+* **SETTINGS PAGE:**  This section provides a user profile page and fundamental settings for customizing the system to individual preferences.
+
+
+**Extras:**
+
+Beyond the standard textboxes and dialogs, I incorporated additional features to enhance user experience:
+
+1. **Student Box:**  Found on the Students page, this box allows for quick searches and displays relevant information at a glance, including student name, surname, home address, parent's phone number, and a QR code for easy access to the parent's phone number via smartphone scan.
+
+2. **Backup & Recovery Facility:**  This safeguard protects against data loss due to system corruption or unforeseen events. Users can perform regular backups and store them securely for disaster recovery scenarios.
+
+3. **Document Generation:** I implemented a system for generating documents directly from the system, including student records, lists, and registers. Users can simply click a button to produce the desired document. 
+
+**3. Presentation of RMS to my Class Teacher:**
+
+Following extensive development, I presented RMS to my class teacher. Their valuable feedback provided insights for further refinement of the system.
+
+**4. Where RMS is Now?**
+
+As a student with ever-increasing academic demands, I eventually had to step back from the project to focus on my schoolwork. However, RMS stands as a testament to the power of student initiative and the potential to create innovative solutions for real-world challenges. 
 
 
