@@ -67,7 +67,7 @@ As a student with ever-increasing academic demands, I eventually had to step bac
 ![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/bc815c87-bde5-4e60-bada-59fb3c86962d)
 ![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/5bc8a7d9-8843-437e-91e5-a768819d5c20)
 ![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/c56e0233-98aa-49db-bccb-d820b98295bf)
-![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/aff86a68-52af-4660-9a08-67f9f0d0414e)
+
 
 
 
