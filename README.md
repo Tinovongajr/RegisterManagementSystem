@@ -1,4 +1,4 @@
-## RMS: A Student-Driven Innovation (#RMS #studentlife #innovation)
+# RMS: A Student-Driven Innovation (#RMS #studentlife #innovation)
 
 **Abstract:**
 
@@ -18,9 +18,7 @@ The old system had its flaws:
 
 These challenges fueled my passion for creating RMS. 
 
-# Developing RMS 
-
-## RMS: A Student-Driven Innovation (continued)
+## Developing RMS 
 
 **1. Designing the Database:**
 
