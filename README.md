@@ -51,7 +51,8 @@ Beyond the standard textboxes and dialogs, I incorporated additional features to
 
 2. **Backup & Recovery Facility:**  This safeguard protects against data loss due to system corruption or unforeseen events. Users can perform regular backups and store them securely for disaster recovery scenarios.
 
-3. **Document Generation:** I implemented a system for generating documents directly from the system, including student records, lists, and registers. Users can simply click a button to produce the desired document. 
+3. **Document Generation:** I implemented a system for generating documents directly from the system, including student records, lists, and registers. Users can simply click a button to produce the desired document.
+   > Check out demo doc in files
 
 **3. Presentation of RMS to my Class Teacher:**
 
