@@ -50,12 +50,12 @@ With a robust backend in place, I shifted my focus to the user interface. Here, 
 Beyond the standard textboxes and dialogs, I incorporated additional features to enhance user experience:
 
 1. **Student Box:**  Found on the Students page, this box allows for quick searches and displays relevant information at a glance, including student name, surname, home address, parent's phone number, and a QR code for easy access to the parent's phone number via smartphone scan.
-2. 
+
 ![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/bc815c87-bde5-4e60-bada-59fb3c86962d)
 
-4. **Backup & Recovery Facility:**  This safeguard protects against data loss due to system corruption or unforeseen events. Users can perform regular backups and store them securely for disaster recovery scenarios.
+2. **Backup & Recovery Facility:**  This safeguard protects against data loss due to system corruption or unforeseen events. Users can perform regular backups and store them securely for disaster recovery scenarios.
 
-5. **Document Generation:** I implemented a system for generating documents directly from the system, including student records, lists, and registers. Users can simply click a button to produce the desired document.
+3. **Document Generation:** I implemented a system for generating documents directly from the system, including student records, lists, and registers. Users can simply click a button to produce the desired document.
    > Check out [demo doc](https://github.com/Tinovongajr/RegisterManagementSystem/blob/master/Demo_Doc.pdf) in files
 
 **3. Presentation of RMS to my Class Teacher:**
