@@ -62,12 +62,13 @@ Following extensive development, I presented RMS to my class teacher. Their valu
 
 As a student with ever-increasing academic demands, I eventually had to step back from the project to focus on my schoolwork. However, RMS stands as a testament to the power of student initiative and the potential to create innovative solutions for real-world challenges. 
 
-**5. Try RMS 
+**5. Try RMS**
 Please be advised that this app is currently in the development stage, and you may encounter some errors. Therefore, please exercise caution when downloading. I cannot be held liable for any potential issues that may arise.
 
 
-> [Download msi installer](https://drive.google.com/file/d/1jji7faeTf_Pvb8PyM3PM-NzAxk33vBA9/view?usp=sharing)
-> [Download exe installer](https://drive.google.com/file/d/1u7D1ui6CBB0B5OdX5vt2xwkQWfNlpttT/view?usp=sharing)
+   > [Download msi installer](https://drive.google.com/file/d/1jji7faeTf_Pvb8PyM3PM-NzAxk33vBA9/view?usp=sharing)
+
+   > [Download exe installer](https://drive.google.com/file/d/1u7D1ui6CBB0B5OdX5vt2xwkQWfNlpttT/view?usp=sharing)
 
 **Pictures**
 ![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/aca0f50f-5e65-4fb2-935a-dc4e465e83e4)
