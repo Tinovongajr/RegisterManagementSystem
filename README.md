@@ -1,5 +1,7 @@
 # RMS: A Student-Driven Innovation (#RMS #studentlife #innovation)
 
+![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/aca0f50f-5e65-4fb2-935a-dc4e465e83e4)
+
 **Abstract:**
 
 Imagine a school experience where registration is a breeze! That's the vision behind RMS, a user-friendly register management system I built at 17 to empower administrators and simplify the process for my fellow students. 
@@ -48,10 +50,12 @@ With a robust backend in place, I shifted my focus to the user interface. Here, 
 Beyond the standard textboxes and dialogs, I incorporated additional features to enhance user experience:
 
 1. **Student Box:**  Found on the Students page, this box allows for quick searches and displays relevant information at a glance, including student name, surname, home address, parent's phone number, and a QR code for easy access to the parent's phone number via smartphone scan.
+2. 
+![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/bc815c87-bde5-4e60-bada-59fb3c86962d)
 
-2. **Backup & Recovery Facility:**  This safeguard protects against data loss due to system corruption or unforeseen events. Users can perform regular backups and store them securely for disaster recovery scenarios.
+4. **Backup & Recovery Facility:**  This safeguard protects against data loss due to system corruption or unforeseen events. Users can perform regular backups and store them securely for disaster recovery scenarios.
 
-3. **Document Generation:** I implemented a system for generating documents directly from the system, including student records, lists, and registers. Users can simply click a button to produce the desired document.
+5. **Document Generation:** I implemented a system for generating documents directly from the system, including student records, lists, and registers. Users can simply click a button to produce the desired document.
    > Check out [demo doc](https://github.com/Tinovongajr/RegisterManagementSystem/blob/master/Demo_Doc.pdf) in files
 
 **3. Presentation of RMS to my Class Teacher:**
@@ -71,8 +75,8 @@ Please be advised that this app is currently in the development stage, and you m
    > [Download exe installer](https://drive.google.com/file/d/1u7D1ui6CBB0B5OdX5vt2xwkQWfNlpttT/view?usp=sharing)
 
 **Pictures**
-![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/aca0f50f-5e65-4fb2-935a-dc4e465e83e4)
-![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/bc815c87-bde5-4e60-bada-59fb3c86962d)
+
+
 ![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/5bc8a7d9-8843-437e-91e5-a768819d5c20)
 ![image](https://github.com/Tinovongajr/RegisterManagementSystem/assets/65060167/c56e0233-98aa-49db-bccb-d820b98295bf)
 
